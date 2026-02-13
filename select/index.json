@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "銀河鉄道の夜 (cover ver.)",
+  "base_artist": "羊文学",
+  "createdAt": "2026-02-13T07:11:11.620115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新訳 銀河鉄道の夜",
+      "artist": "GING NANG BOYZ",
+      "has_synced": false,
+      "path": "select/01_新訳_銀河鉄道の夜_GING_NANG_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新訳 銀河鉄道の夜",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/02_新訳_銀河鉄道の夜_銀杏BOYZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀河鉄道の夜",
+      "artist": "GOING STEADY",
+      "has_synced": true,
+      "path": "select/03_銀河鉄道の夜_GOING_STEADY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀河鉄道の夜",
+      "artist": "ライチ☆光クラブ",
+      "has_synced": false,
+      "path": "select/04_銀河鉄道の夜_ライチ☆光クラブ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "銀河鉄道の夜",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/05_銀河鉄道の夜_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "銀河鉄道の夜",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/06_銀河鉄道の夜_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ginga Tetsudō No Yoru [銀河鉄道の夜]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/07_Ginga_Tetsudō_No_Yoru_[銀河鉄道の夜]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shinyaku Ginga Tetsudo no Yoru [新訳 銀河鉄道の夜]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": false,
+      "path": "select/08_Shinyaku_Ginga_Tetsudo_no_Yoru_[新訳_銀河鉄道の夜]_Ging_Nang_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "銀河鉄道の夜 - ピアノ・ヴァージョン",
+      "artist": "Haruomi Hosono",
+      "has_synced": false,
+      "path": "select/09_銀河鉄道の夜_-_ピアノ・ヴァージョン_Haruomi_Hosono.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河鉄道の夜 - cover ver.",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_銀河鉄道の夜_-_cover_ver._羊文学.txt"
+    }
+  ]
+}
